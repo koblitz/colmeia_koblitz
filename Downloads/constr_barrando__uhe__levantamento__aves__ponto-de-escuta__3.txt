@@ -1,0 +1,96 @@
+
+- Título: constr_barrando__uhe__levantamento__aves__ponto-de-escuta__3
+	 (tipologia__nome_empreendimento__empresa__tipo_de_coleta__grupo__metodo__campanha) 
+TIPOLOGIA - UHE, RODOVIA, TERMELETRICA, NUCLEAR, LT, GASODUTO, 
+
+- Título Sugerido: Resultados Observacao Campanhas 123456 SLTapajos
+	(titulo que o AA vai subir)
+
+- Tipo de Arquivo: .xlsx
+	(poderia ser .shp, .csv...)
+
+- Resumo: Empresa responsável pela coleta Pega_Aves/SA.
+	(extensão geográfica, data, escala, entidade responsável.)
+
+
+- Nome da metodologia: Ponto de Escuta
+		
+
+- Categoria do componente: avifauna de sub-bosque
+
+	(avifauna de sub-bosque, ictioplancton, esturura de vegetação, floristica, etc..)
+
+
+- Descrição da metodologia: as coletas foram feitas nos módulos de amostragem que estão disponíveis em constr_barrando__uhe__modulos_amostragem__4. Cada coleta foi feita entre as 7 e 11 da manhã, entre os dias 10.01.2016 a 03.03.2016. Foram colocadas 10 redes em cada ponto. Em dias chuvosos as coletas não foram feitas.
+	A medição de peso foi feita com uma balança de precisão XCV.
+	Os registros das gravações, na coluna ID Gravação da presente planilha, estão colocados no arquivo:  constr_barrando__uhe__aves__ponto-de-escuta__registro_sonoro__4
+	A distância foi calculada através da média da projeção entre os dois observadores.
+	(Data Inicial, Data Final, período do dia, Teste realizado, Instrumentos...; Se dado secundário, descrever forma de obtenção dos dados e como foi feita a compilação, se couber.
+O Anexo 1 apresenta diferentes exemplos de formato de preenchimento da metodologia usadas em biodiversidade.)
+
+
+- Explicitar a condicionante ao qual se refere - Condicionante 3.1 da Licença de Instalação número 571/16.
+	Coletar aves em toda a extensão do empreendimento.
+	(se houver condicionante)
+
+
+- Palavras-chaves: Avifauna, rede de neblina, bioma amazônia, 
+
+
+- Categoria VCGE: Biodiversidade
+	(Água - pluviometria, subterrânea, Bacia Hidrográfica...; Biodiversidade; Florestas; Gestão do Meio Ambiente; segurança hídrica: ....)
+
+
+- Se dado espacial: 4326 e WGS84.
+	(Código EPSG, Datum (preferencialmente SIRGAS 2000 ou WGS84), projeção, Zona.)
+
+- Colunas geoespaciais ou nome do arquivo geo associado no repositório
+
+
+
+- Definição de cada atributos (nomes das colunas):
+
+Gênero - nome do gênero
+Epíteto Especifico - Nome da espécie
+Método Registro (A / V)	- Se avistado (A) ou escutado (V)
+Peso (biblio) - Peso em gramas 
+Guilda - Guilda ao qual participa o indivíduo.
+ID Gravação - número de registro da gravação.
+Data - data da observação
+Distância - distancia projetada ao que foi observado
+
+ (descrevendo: origem (primário, secundário); descrição; Tipo do campo (inteiro, decimal, texto, data, sequencial ou booleano); Unidade de medida (Grandeza Espacial, Química,... ou não se aplica). Exemplos de colunas de dados de biodiversidade são encontrados no Anexo 2.
+
+
+- Responsável pela informação. 
+Dr. Pega Passarinho
+CPF : 99999999999
+especialidade: ornitólogo
+email:pegapassarinho@gmail.com
+empresa: Pega Aves S/A
+telefone: xxxxxxx
+
+	(Nome, CPF, formação, especialidade, email, CNPJ, empresa, telefone.)
+
+
+- Observação: 
+	(qualquer observação relevante como não cumprimento do esforço e outros problemas associados.)
+
+- Analista Ambiental resposável pelas informações
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+
